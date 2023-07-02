@@ -3,7 +3,7 @@
   
 ![image](https://github.com/isPoto/Singbit/assets/59009389/9fc26fc1-6c81-4c7d-b169-cf89ff590206)
 
-![sb](https://github.com/isPoto/Singbit/assets/59009389/0c23b578-2e4e-4a4e-8746-726a43b46855)
+
 
   
 用法  
