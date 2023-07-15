@@ -11,7 +11,7 @@
 双击右上角小红点退出「声笔魂」  
 
 
-<a href="https://github.com/isPoto/SingbitSoul/releases/download/0/SingbitSoulByPotoVersion9.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
+<a href="https://github.com/isPoto/SingbitSoul/releases/download/0/SingbitSoulByPotoVersion12.zip" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
 
 
 *付费软件，请购买使用。下载为试用版*  
