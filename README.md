@@ -15,3 +15,4 @@
 
 
 *付费软件，请购买使用。下载为试用版*
+Telegram 联系：https://t.me/isPoto
